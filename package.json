@@ -1,5 +1,5 @@
 {
-  "name": "@jondotsoy/crypty.js",
+  "name": "crypty.js",
   "version": "0.1.0",
   "description": "Easily create a hash from a string.",
   "main": "crypty.js",

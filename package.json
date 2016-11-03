@@ -1,0 +1,38 @@
+{
+  "name": "@jondotsoy/crypty.js",
+  "version": "0.1.0",
+  "description": "Easily create a hash from a string.",
+  "main": "crypty.js",
+  "scripts": {},
+  "keywords": [
+    "crypto"
+  ],
+  "author": "Jonathan Delgado <hi@jon.soy>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "babel-register": "^6.18.0",
+    "expect.js": "^0.3.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-esdoc": "^0.3.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-mocha": "^3.0.1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonDotsoy/crypty.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JonDotsoy/crypty.js/issues"
+  },
+  "homepage": "https://github.com/JonDotsoy/crypty.js#readme",
+  "babel": {
+    "presets": [
+      "latest",
+      "stage-0"
+    ]
+  }
+}

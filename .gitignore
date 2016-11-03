@@ -112,3 +112,4 @@ jspm_packages
 ### Custom ###
 crypty.js
 
+!src/crypty.js
